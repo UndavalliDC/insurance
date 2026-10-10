@@ -6,3 +6,6 @@ function greet(name: string): string {
 
 let user: string = "Durga";
 console.log(greet(user));
+
+
+
