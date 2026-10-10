@@ -1,0 +1,8 @@
+// Simple TypeScript Program
+
+function greet(name: string): string {
+    return `Hello, ${name}! Welcome to TypeScript.`;
+}
+
+let user: string = "Durga";
+console.log(greet(user));
